@@ -1,0 +1,13 @@
+{
+  "name": "Annihilus",
+  "website": "https://nihilistslab.com/anni/",
+  "description": "ANNI Coin is a fun and experimental cryptocurrency inspired by Blizzard's Diablo II's unique small charm named Annihilus.",
+  "explorer": "https://etherscan.io/token/0xdCb8fdfb54D8751D9a4B9F5D4ccEEf50E62c41fA",
+  "type": "ERC20",
+  "symbol": "ANNI",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xdCb8fdfb54D8751D9a4B9F5D4ccEEf50E62c41fA",
+  "links": [
+  ]
+}
